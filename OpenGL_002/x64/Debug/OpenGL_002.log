@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (3D_Tools_Suite.vcxproj, OpenGL_002.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gl.c
+  main.cpp
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(79,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(80,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(81,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(85,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(86,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  openGL_glfw_v001.cpp
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(79,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(80,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(81,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(85,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.h(86,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.cpp(156,62): warning C4305: 'argument': truncation from 'const double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.cpp(156,38): warning C4305: 'argument': truncation from 'const double' to 'GLfloat'
+C:\CodeRepo\Portfolio\portfolio\OpenGL_002\openGL_glfw_v001.cpp(156,16): warning C4305: 'argument': truncation from 'const double' to 'GLfloat'
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL_002.vcxproj -> C:\CodeRepo\Portfolio\portfolio\x64\Debug\OpenGL_Demo.exe
